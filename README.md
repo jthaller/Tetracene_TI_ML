@@ -1,2 +1,4 @@
 # pentacene_TI_ML
-In this project, I use machine learning to optimize the transport integral of pentacene. 
+In this project, I use machine learning to optimize the transport integral of pentacene. Organic semiconductors are responsible for the OLED panels found on high end TV's and the screen found on your smartphone. Naturally, a significant amount of research in this field revolves around finding new state of the art materials that are more efficient and performant. Computing electronic properties, such as the molecular transport integral, of these theoretical materials is computationally expensive. Using machine learning, we can predict (and optimize) the transport integral of a material, which can then be used to calculate the charge carrier mobility using Monte Carlo simulations.
+
+This work was first published by Lederer et al. in 2019. In this project, I replicate his work (starting from scratch) and continue to improve upon it using feature engineering to explore the connection between material topology and its conducting properties.
